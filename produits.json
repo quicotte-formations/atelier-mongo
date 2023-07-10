@@ -1,0 +1,2093 @@
+[{
+  "_id": {
+    "$oid": "64a9a653e5b37047d4a8d944"
+  },
+  "categorie": "Barre son",
+  "marque": "Huawei",
+  "numSerie": "SN-1941875745927",
+  "prix": 247,
+  "notes": [
+    {
+      "client": "Loustic",
+      "noteSurCinq": 2
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "64a9a653e5b37047d4a8d945"
+  },
+  "categorie": "Tablette",
+  "marque": "Xiaomi",
+  "numSerie": "SN1541528338647",
+  "prix": 529,
+  "notes": [
+    {
+      "client": "Loustic",
+      "noteSurCinq": 5
+    },
+    {
+      "client": "Clampin",
+      "noteSurCinq": 3
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "64a9a653e5b37047d4a8d946"
+  },
+  "categorie": "Trotinette électrique",
+  "marque": "Huawei",
+  "numSerie": "SN-119135722845",
+  "prix": 100,
+  "notes": [
+    {
+      "client": "Loustic",
+      "noteSurCinq": 3
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "64a9a653e5b37047d4a8d947"
+  },
+  "categorie": "Tablette",
+  "marque": "Xiaomi",
+  "numSerie": "SN1541528338416",
+  "prix": 645,
+  "notes": [
+    {
+      "client": "Loustic",
+      "noteSurCinq": 5
+    },
+    {
+      "client": "Clampin",
+      "noteSurCinq": 4
+    },
+    {
+      "client": "Musclor",
+      "noteSurCinq": 2
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "64a9a653e5b37047d4a8d948"
+  },
+  "categorie": "Aspirateur",
+  "marque": "Philips",
+  "numSerie": "SN3060301775",
+  "prix": 841,
+  "notes": []
+},
+{
+  "_id": {
+    "$oid": "64a9a653e5b37047d4a8d949"
+  },
+  "categorie": "Trotinette électrique",
+  "marque": "Samsung",
+  "numSerie": "SN1212761515865",
+  "prix": 167,
+  "notes": [
+    {
+      "client": "Loustic",
+      "noteSurCinq": 5
+    },
+    {
+      "client": "Clampin",
+      "noteSurCinq": 4
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "64a9a653e5b37047d4a8d94a"
+  },
+  "categorie": "Trotinette électrique",
+  "marque": "Philips",
+  "numSerie": "SN-1253259550194",
+  "prix": 949,
+  "notes": [
+    {
+      "client": "Loustic",
+      "noteSurCinq": 3
+    },
+    {
+      "client": "Clampin",
+      "noteSurCinq": 5
+    },
+    {
+      "client": "Musclor",
+      "noteSurCinq": 5
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "64a9a653e5b37047d4a8d94b"
+  },
+  "categorie": "Trotinette électrique",
+  "marque": "Philips",
+  "numSerie": "SN-125325955079",
+  "prix": 698,
+  "notes": [
+    {
+      "client": "Loustic",
+      "noteSurCinq": 5
+    },
+    {
+      "client": "Clampin",
+      "noteSurCinq": 4
+    },
+    {
+      "client": "Musclor",
+      "noteSurCinq": 1
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "64a9a653e5b37047d4a8d94c"
+  },
+  "categorie": "Lecteur Blueray",
+  "marque": "Sony",
+  "numSerie": "SN1247050831749",
+  "prix": 368,
+  "notes": [
+    {
+      "client": "Loustic",
+      "noteSurCinq": 2
+    },
+    {
+      "client": "Clampin",
+      "noteSurCinq": 2
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "64a9a653e5b37047d4a8d94d"
+  },
+  "categorie": "Lecteur Blueray",
+  "marque": "Philips",
+  "numSerie": "SN851347721520",
+  "prix": 728,
+  "notes": [
+    {
+      "client": "Loustic",
+      "noteSurCinq": 3
+    },
+    {
+      "client": "Clampin",
+      "noteSurCinq": 5
+    },
+    {
+      "client": "Musclor",
+      "noteSurCinq": 1
+    },
+    {
+      "client": "Malvira",
+      "noteSurCinq": 2
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "64a9a653e5b37047d4a8d94e"
+  },
+  "categorie": "Lecteur Blueray",
+  "marque": "Samsung",
+  "numSerie": "SN-977598510733",
+  "prix": 550,
+  "notes": [
+    {
+      "client": "Loustic",
+      "noteSurCinq": 1
+    },
+    {
+      "client": "Clampin",
+      "noteSurCinq": 2
+    },
+    {
+      "client": "Musclor",
+      "noteSurCinq": 3
+    },
+    {
+      "client": "Malvira",
+      "noteSurCinq": 4
+    },
+    {
+      "client": "Cunégonde",
+      "noteSurCinq": 1
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "64a9a653e5b37047d4a8d94f"
+  },
+  "categorie": "Aspirateur",
+  "marque": "Sony",
+  "numSerie": "SN-1555640753104",
+  "prix": 229,
+  "notes": [
+    {
+      "client": "Loustic",
+      "noteSurCinq": 3
+    },
+    {
+      "client": "Clampin",
+      "noteSurCinq": 3
+    },
+    {
+      "client": "Musclor",
+      "noteSurCinq": 2
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "64a9a653e5b37047d4a8d950"
+  },
+  "categorie": "Téléphone",
+  "marque": "Xiaomi",
+  "numSerie": "SN2014868663218",
+  "prix": 890,
+  "notes": [
+    {
+      "client": "Loustic",
+      "noteSurCinq": 2
+    },
+    {
+      "client": "Clampin",
+      "noteSurCinq": 2
+    },
+    {
+      "client": "Musclor",
+      "noteSurCinq": 3
+    },
+    {
+      "client": "Malvira",
+      "noteSurCinq": 4
+    },
+    {
+      "client": "Cunégonde",
+      "noteSurCinq": 1
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "64a9a653e5b37047d4a8d951"
+  },
+  "categorie": "Tablette",
+  "marque": "Philips",
+  "numSerie": "SN2011309498926",
+  "prix": 928,
+  "notes": [
+    {
+      "client": "Loustic",
+      "noteSurCinq": 5
+    },
+    {
+      "client": "Clampin",
+      "noteSurCinq": 2
+    },
+    {
+      "client": "Musclor",
+      "noteSurCinq": 5
+    },
+    {
+      "client": "Malvira",
+      "noteSurCinq": 2
+    },
+    {
+      "client": "Cunégonde",
+      "noteSurCinq": 2
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "64a9a653e5b37047d4a8d952"
+  },
+  "categorie": "Téléphone",
+  "marque": "Xiaomi",
+  "numSerie": "SN2014868663819",
+  "prix": 612,
+  "notes": [
+    {
+      "client": "Loustic",
+      "noteSurCinq": 4
+    },
+    {
+      "client": "Clampin",
+      "noteSurCinq": 4
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "64a9a653e5b37047d4a8d953"
+  },
+  "categorie": "Barre son",
+  "marque": "Xiaomi",
+  "numSerie": "SN-1494899021418",
+  "prix": 590,
+  "notes": [
+    {
+      "client": "Loustic",
+      "noteSurCinq": 3
+    },
+    {
+      "client": "Clampin",
+      "noteSurCinq": 5
+    },
+    {
+      "client": "Musclor",
+      "noteSurCinq": 3
+    },
+    {
+      "client": "Malvira",
+      "noteSurCinq": 4
+    },
+    {
+      "client": "Cunégonde",
+      "noteSurCinq": 1
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "64a9a653e5b37047d4a8d954"
+  },
+  "categorie": "Télé",
+  "marque": "Samsung",
+  "numSerie": "SN487890888590",
+  "prix": 820,
+  "notes": [
+    {
+      "client": "Loustic",
+      "noteSurCinq": 5
+    },
+    {
+      "client": "Clampin",
+      "noteSurCinq": 5
+    },
+    {
+      "client": "Musclor",
+      "noteSurCinq": 3
+    },
+    {
+      "client": "Malvira",
+      "noteSurCinq": 1
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "64a9a653e5b37047d4a8d955"
+  },
+  "categorie": "Tablette",
+  "marque": "Samsung",
+  "numSerie": "SN182363267139",
+  "prix": 486,
+  "notes": []
+},
+{
+  "_id": {
+    "$oid": "64a9a653e5b37047d4a8d956"
+  },
+  "categorie": "Aspirateur",
+  "marque": "Philips",
+  "numSerie": "SN30603017727",
+  "prix": 929,
+  "notes": [
+    {
+      "client": "Loustic",
+      "noteSurCinq": 2
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "64a9a653e5b37047d4a8d957"
+  },
+  "categorie": "Tablette",
+  "marque": "Samsung",
+  "numSerie": "SN182363267793",
+  "prix": 504,
+  "notes": [
+    {
+      "client": "Loustic",
+      "noteSurCinq": 1
+    },
+    {
+      "client": "Clampin",
+      "noteSurCinq": 4
+    },
+    {
+      "client": "Musclor",
+      "noteSurCinq": 1
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "64a9a653e5b37047d4a8d958"
+  },
+  "categorie": "Tablette",
+  "marque": "Philips",
+  "numSerie": "SN2011309498195",
+  "prix": 634,
+  "notes": [
+    {
+      "client": "Loustic",
+      "noteSurCinq": 1
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "64a9a653e5b37047d4a8d959"
+  },
+  "categorie": "Aspirateur",
+  "marque": "Philips",
+  "numSerie": "SN30603017971",
+  "prix": 921,
+  "notes": [
+    {
+      "client": "Loustic",
+      "noteSurCinq": 1
+    },
+    {
+      "client": "Clampin",
+      "noteSurCinq": 3
+    },
+    {
+      "client": "Musclor",
+      "noteSurCinq": 5
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "64a9a653e5b37047d4a8d95a"
+  },
+  "categorie": "Téléphone",
+  "marque": "Xiaomi",
+  "numSerie": "SN2014868663126",
+  "prix": 823,
+  "notes": [
+    {
+      "client": "Loustic",
+      "noteSurCinq": 2
+    },
+    {
+      "client": "Clampin",
+      "noteSurCinq": 2
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "64a9a653e5b37047d4a8d95b"
+  },
+  "categorie": "Aspirateur",
+  "marque": "Philips",
+  "numSerie": "SN30603017122",
+  "prix": 641,
+  "notes": [
+    {
+      "client": "Loustic",
+      "noteSurCinq": 1
+    },
+    {
+      "client": "Clampin",
+      "noteSurCinq": 5
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "64a9a653e5b37047d4a8d95c"
+  },
+  "categorie": "Lecteur Blueray",
+  "marque": "Philips",
+  "numSerie": "SN851347721409",
+  "prix": 449,
+  "notes": [
+    {
+      "client": "Loustic",
+      "noteSurCinq": 5
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "64a9a653e5b37047d4a8d95d"
+  },
+  "categorie": "Barre son",
+  "marque": "Sony",
+  "numSerie": "SN-2133539553500",
+  "prix": 897,
+  "notes": [
+    {
+      "client": "Loustic",
+      "noteSurCinq": 1
+    },
+    {
+      "client": "Clampin",
+      "noteSurCinq": 5
+    },
+    {
+      "client": "Musclor",
+      "noteSurCinq": 3
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "64a9a653e5b37047d4a8d95e"
+  },
+  "categorie": "Téléphone",
+  "marque": "Samsung",
+  "numSerie": "SN1971011454391",
+  "prix": 695,
+  "notes": [
+    {
+      "client": "Loustic",
+      "noteSurCinq": 2
+    },
+    {
+      "client": "Clampin",
+      "noteSurCinq": 3
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "64a9a653e5b37047d4a8d95f"
+  },
+  "categorie": "Trotinette électrique",
+  "marque": "Huawei",
+  "numSerie": "SN-119135722565",
+  "prix": 861,
+  "notes": [
+    {
+      "client": "Loustic",
+      "noteSurCinq": 1
+    },
+    {
+      "client": "Clampin",
+      "noteSurCinq": 1
+    },
+    {
+      "client": "Musclor",
+      "noteSurCinq": 3
+    },
+    {
+      "client": "Malvira",
+      "noteSurCinq": 4
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "64a9a653e5b37047d4a8d960"
+  },
+  "categorie": "Tablette",
+  "marque": "Xiaomi",
+  "numSerie": "SN1541528338888",
+  "prix": 675,
+  "notes": [
+    {
+      "client": "Loustic",
+      "noteSurCinq": 1
+    },
+    {
+      "client": "Clampin",
+      "noteSurCinq": 4
+    },
+    {
+      "client": "Musclor",
+      "noteSurCinq": 2
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "64a9a653e5b37047d4a8d961"
+  },
+  "categorie": "Téléphone",
+  "marque": "Samsung",
+  "numSerie": "SN1971011454794",
+  "prix": 339,
+  "notes": [
+    {
+      "client": "Loustic",
+      "noteSurCinq": 5
+    },
+    {
+      "client": "Clampin",
+      "noteSurCinq": 2
+    },
+    {
+      "client": "Musclor",
+      "noteSurCinq": 3
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "64a9a653e5b37047d4a8d962"
+  },
+  "categorie": "Trotinette électrique",
+  "marque": "Sony",
+  "numSerie": "SN-1309297386922",
+  "prix": 204,
+  "notes": [
+    {
+      "client": "Loustic",
+      "noteSurCinq": 4
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "64a9a653e5b37047d4a8d963"
+  },
+  "categorie": "Aspirateur",
+  "marque": "Samsung",
+  "numSerie": "SN-1798343214768",
+  "prix": 757,
+  "notes": [
+    {
+      "client": "Loustic",
+      "noteSurCinq": 5
+    },
+    {
+      "client": "Clampin",
+      "noteSurCinq": 1
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "64a9a653e5b37047d4a8d964"
+  },
+  "categorie": "Télé",
+  "marque": "Huawei",
+  "numSerie": "SN-1805086631647",
+  "prix": 291,
+  "notes": [
+    {
+      "client": "Loustic",
+      "noteSurCinq": 2
+    },
+    {
+      "client": "Clampin",
+      "noteSurCinq": 4
+    },
+    {
+      "client": "Musclor",
+      "noteSurCinq": 1
+    },
+    {
+      "client": "Malvira",
+      "noteSurCinq": 5
+    },
+    {
+      "client": "Cunégonde",
+      "noteSurCinq": 2
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "64a9a653e5b37047d4a8d965"
+  },
+  "categorie": "Téléphone",
+  "marque": "Xiaomi",
+  "numSerie": "SN2014868663460",
+  "prix": 272,
+  "notes": []
+},
+{
+  "_id": {
+    "$oid": "64a9a653e5b37047d4a8d966"
+  },
+  "categorie": "Lecteur Blueray",
+  "marque": "Philips",
+  "numSerie": "SN85134772190",
+  "prix": 290,
+  "notes": [
+    {
+      "client": "Loustic",
+      "noteSurCinq": 4
+    },
+    {
+      "client": "Clampin",
+      "noteSurCinq": 2
+    },
+    {
+      "client": "Musclor",
+      "noteSurCinq": 5
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "64a9a653e5b37047d4a8d967"
+  },
+  "categorie": "Lecteur Blueray",
+  "marque": "Philips",
+  "numSerie": "SN851347721698",
+  "prix": 622,
+  "notes": [
+    {
+      "client": "Loustic",
+      "noteSurCinq": 4
+    },
+    {
+      "client": "Clampin",
+      "noteSurCinq": 5
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "64a9a653e5b37047d4a8d968"
+  },
+  "categorie": "Barre son",
+  "marque": "Xiaomi",
+  "numSerie": "SN-1494899021539",
+  "prix": 692,
+  "notes": [
+    {
+      "client": "Loustic",
+      "noteSurCinq": 1
+    },
+    {
+      "client": "Clampin",
+      "noteSurCinq": 5
+    },
+    {
+      "client": "Musclor",
+      "noteSurCinq": 4
+    },
+    {
+      "client": "Malvira",
+      "noteSurCinq": 3
+    },
+    {
+      "client": "Cunégonde",
+      "noteSurCinq": 2
+    },
+    {
+      "client": "Clapiche",
+      "noteSurCinq": 4
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "64a9a653e5b37047d4a8d969"
+  },
+  "categorie": "Aspirateur",
+  "marque": "Xiaomi",
+  "numSerie": "SN-184933405319",
+  "prix": 212,
+  "notes": [
+    {
+      "client": "Loustic",
+      "noteSurCinq": 3
+    },
+    {
+      "client": "Clampin",
+      "noteSurCinq": 5
+    },
+    {
+      "client": "Musclor",
+      "noteSurCinq": 3
+    },
+    {
+      "client": "Malvira",
+      "noteSurCinq": 1
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "64a9a653e5b37047d4a8d96a"
+  },
+  "categorie": "Barre son",
+  "marque": "Samsung",
+  "numSerie": "SN542395650618",
+  "prix": 703,
+  "notes": [
+    {
+      "client": "Loustic",
+      "noteSurCinq": 4
+    },
+    {
+      "client": "Clampin",
+      "noteSurCinq": 3
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "64a9a653e5b37047d4a8d96b"
+  },
+  "categorie": "Télé",
+  "marque": "Samsung",
+  "numSerie": "SN487890888747",
+  "prix": 801,
+  "notes": [
+    {
+      "client": "Loustic",
+      "noteSurCinq": 1
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "64a9a653e5b37047d4a8d96c"
+  },
+  "categorie": "Tablette",
+  "marque": "Sony",
+  "numSerie": "SN-1044347586333",
+  "prix": 221,
+  "notes": [
+    {
+      "client": "Loustic",
+      "noteSurCinq": 2
+    },
+    {
+      "client": "Clampin",
+      "noteSurCinq": 4
+    },
+    {
+      "client": "Musclor",
+      "noteSurCinq": 1
+    },
+    {
+      "client": "Malvira",
+      "noteSurCinq": 3
+    },
+    {
+      "client": "Cunégonde",
+      "noteSurCinq": 1
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "64a9a653e5b37047d4a8d96d"
+  },
+  "categorie": "Trotinette électrique",
+  "marque": "Huawei",
+  "numSerie": "SN-119135722888",
+  "prix": 828,
+  "notes": []
+},
+{
+  "_id": {
+    "$oid": "64a9a653e5b37047d4a8d96e"
+  },
+  "categorie": "Télé",
+  "marque": "Huawei",
+  "numSerie": "SN-1805086631147",
+  "prix": 797,
+  "notes": [
+    {
+      "client": "Loustic",
+      "noteSurCinq": 5
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "64a9a653e5b37047d4a8d96f"
+  },
+  "categorie": "Télé",
+  "marque": "Samsung",
+  "numSerie": "SN487890888615",
+  "prix": 132,
+  "notes": [
+    {
+      "client": "Loustic",
+      "noteSurCinq": 4
+    },
+    {
+      "client": "Clampin",
+      "noteSurCinq": 2
+    },
+    {
+      "client": "Musclor",
+      "noteSurCinq": 2
+    },
+    {
+      "client": "Malvira",
+      "noteSurCinq": 4
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "64a9a653e5b37047d4a8d970"
+  },
+  "categorie": "Lecteur Blueray",
+  "marque": "Samsung",
+  "numSerie": "SN-977598510254",
+  "prix": 448,
+  "notes": [
+    {
+      "client": "Loustic",
+      "noteSurCinq": 5
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "64a9a653e5b37047d4a8d971"
+  },
+  "categorie": "Lecteur Blueray",
+  "marque": "Philips",
+  "numSerie": "SN851347721438",
+  "prix": 424,
+  "notes": []
+},
+{
+  "_id": {
+    "$oid": "64a9a653e5b37047d4a8d972"
+  },
+  "categorie": "Téléphone",
+  "marque": "Philips",
+  "numSerie": "SN-4950096110",
+  "prix": 449,
+  "notes": [
+    {
+      "client": "Loustic",
+      "noteSurCinq": 3
+    },
+    {
+      "client": "Clampin",
+      "noteSurCinq": 3
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "64a9a653e5b37047d4a8d973"
+  },
+  "categorie": "Tablette",
+  "marque": "Philips",
+  "numSerie": "SN2011309498907",
+  "prix": 375,
+  "notes": []
+},
+{
+  "_id": {
+    "$oid": "64a9a653e5b37047d4a8d974"
+  },
+  "categorie": "Aspirateur",
+  "marque": "Philips",
+  "numSerie": "SN30603017375",
+  "prix": 969,
+  "notes": [
+    {
+      "client": "Loustic",
+      "noteSurCinq": 5
+    },
+    {
+      "client": "Clampin",
+      "noteSurCinq": 2
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "64a9a653e5b37047d4a8d975"
+  },
+  "categorie": "Trotinette électrique",
+  "marque": "Philips",
+  "numSerie": "SN-1253259550273",
+  "prix": 621,
+  "notes": [
+    {
+      "client": "Loustic",
+      "noteSurCinq": 3
+    },
+    {
+      "client": "Clampin",
+      "noteSurCinq": 3
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "64a9a653e5b37047d4a8d976"
+  },
+  "categorie": "Barre son",
+  "marque": "Sony",
+  "numSerie": "SN-2133539553257",
+  "prix": 986,
+  "notes": []
+},
+{
+  "_id": {
+    "$oid": "64a9a653e5b37047d4a8d977"
+  },
+  "categorie": "Téléphone",
+  "marque": "Samsung",
+  "numSerie": "SN1971011454532",
+  "prix": 493,
+  "notes": [
+    {
+      "client": "Loustic",
+      "noteSurCinq": 5
+    },
+    {
+      "client": "Clampin",
+      "noteSurCinq": 2
+    },
+    {
+      "client": "Musclor",
+      "noteSurCinq": 5
+    },
+    {
+      "client": "Malvira",
+      "noteSurCinq": 4
+    },
+    {
+      "client": "Cunégonde",
+      "noteSurCinq": 4
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "64a9a653e5b37047d4a8d978"
+  },
+  "categorie": "Téléphone",
+  "marque": "Philips",
+  "numSerie": "SN-495009611799",
+  "prix": 659,
+  "notes": [
+    {
+      "client": "Loustic",
+      "noteSurCinq": 3
+    },
+    {
+      "client": "Clampin",
+      "noteSurCinq": 3
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "64a9a653e5b37047d4a8d979"
+  },
+  "categorie": "Aspirateur",
+  "marque": "Huawei",
+  "numSerie": "SN-631910129724",
+  "prix": 185,
+  "notes": [
+    {
+      "client": "Loustic",
+      "noteSurCinq": 3
+    },
+    {
+      "client": "Clampin",
+      "noteSurCinq": 2
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "64a9a653e5b37047d4a8d97a"
+  },
+  "categorie": "Télé",
+  "marque": "Philips",
+  "numSerie": "SN-1978130177209",
+  "prix": 817,
+  "notes": [
+    {
+      "client": "Loustic",
+      "noteSurCinq": 5
+    },
+    {
+      "client": "Clampin",
+      "noteSurCinq": 5
+    },
+    {
+      "client": "Musclor",
+      "noteSurCinq": 2
+    },
+    {
+      "client": "Malvira",
+      "noteSurCinq": 5
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "64a9a653e5b37047d4a8d97b"
+  },
+  "categorie": "Tablette",
+  "marque": "Sony",
+  "numSerie": "SN-1044347586557",
+  "prix": 802,
+  "notes": [
+    {
+      "client": "Loustic",
+      "noteSurCinq": 5
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "64a9a653e5b37047d4a8d97c"
+  },
+  "categorie": "Aspirateur",
+  "marque": "Xiaomi",
+  "numSerie": "SN-184933405632",
+  "prix": 734,
+  "notes": [
+    {
+      "client": "Loustic",
+      "noteSurCinq": 5
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "64a9a653e5b37047d4a8d97d"
+  },
+  "categorie": "Barre son",
+  "marque": "Samsung",
+  "numSerie": "SN542395650782",
+  "prix": 949,
+  "notes": [
+    {
+      "client": "Loustic",
+      "noteSurCinq": 5
+    },
+    {
+      "client": "Clampin",
+      "noteSurCinq": 2
+    },
+    {
+      "client": "Musclor",
+      "noteSurCinq": 5
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "64a9a653e5b37047d4a8d97e"
+  },
+  "categorie": "Télé",
+  "marque": "Huawei",
+  "numSerie": "SN-1805086631283",
+  "prix": 154,
+  "notes": [
+    {
+      "client": "Loustic",
+      "noteSurCinq": 2
+    },
+    {
+      "client": "Clampin",
+      "noteSurCinq": 4
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "64a9a653e5b37047d4a8d97f"
+  },
+  "categorie": "Aspirateur",
+  "marque": "Sony",
+  "numSerie": "SN-1555640753651",
+  "prix": 77,
+  "notes": [
+    {
+      "client": "Loustic",
+      "noteSurCinq": 4
+    },
+    {
+      "client": "Clampin",
+      "noteSurCinq": 2
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "64a9a653e5b37047d4a8d980"
+  },
+  "categorie": "Tablette",
+  "marque": "Xiaomi",
+  "numSerie": "SN154152833869",
+  "prix": 623,
+  "notes": [
+    {
+      "client": "Loustic",
+      "noteSurCinq": 1
+    },
+    {
+      "client": "Clampin",
+      "noteSurCinq": 5
+    },
+    {
+      "client": "Musclor",
+      "noteSurCinq": 2
+    },
+    {
+      "client": "Malvira",
+      "noteSurCinq": 4
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "64a9a653e5b37047d4a8d981"
+  },
+  "categorie": "Tablette",
+  "marque": "Xiaomi",
+  "numSerie": "SN1541528338206",
+  "prix": 231,
+  "notes": [
+    {
+      "client": "Loustic",
+      "noteSurCinq": 5
+    },
+    {
+      "client": "Clampin",
+      "noteSurCinq": 2
+    },
+    {
+      "client": "Musclor",
+      "noteSurCinq": 5
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "64a9a653e5b37047d4a8d982"
+  },
+  "categorie": "Barre son",
+  "marque": "Huawei",
+  "numSerie": "SN-1941875745326",
+  "prix": 778,
+  "notes": [
+    {
+      "client": "Loustic",
+      "noteSurCinq": 4
+    },
+    {
+      "client": "Clampin",
+      "noteSurCinq": 4
+    },
+    {
+      "client": "Musclor",
+      "noteSurCinq": 5
+    },
+    {
+      "client": "Malvira",
+      "noteSurCinq": 2
+    },
+    {
+      "client": "Cunégonde",
+      "noteSurCinq": 5
+    },
+    {
+      "client": "Clapiche",
+      "noteSurCinq": 3
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "64a9a653e5b37047d4a8d983"
+  },
+  "categorie": "Trotinette électrique",
+  "marque": "Sony",
+  "numSerie": "SN-130929738653",
+  "prix": 751,
+  "notes": [
+    {
+      "client": "Loustic",
+      "noteSurCinq": 3
+    },
+    {
+      "client": "Clampin",
+      "noteSurCinq": 5
+    },
+    {
+      "client": "Musclor",
+      "noteSurCinq": 1
+    },
+    {
+      "client": "Malvira",
+      "noteSurCinq": 4
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "64a9a653e5b37047d4a8d984"
+  },
+  "categorie": "Téléphone",
+  "marque": "Philips",
+  "numSerie": "SN-495009611555",
+  "prix": 215,
+  "notes": [
+    {
+      "client": "Loustic",
+      "noteSurCinq": 4
+    },
+    {
+      "client": "Clampin",
+      "noteSurCinq": 5
+    },
+    {
+      "client": "Musclor",
+      "noteSurCinq": 4
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "64a9a653e5b37047d4a8d985"
+  },
+  "categorie": "Aspirateur",
+  "marque": "Huawei",
+  "numSerie": "SN-631910129231",
+  "prix": 649,
+  "notes": [
+    {
+      "client": "Loustic",
+      "noteSurCinq": 2
+    },
+    {
+      "client": "Clampin",
+      "noteSurCinq": 4
+    },
+    {
+      "client": "Musclor",
+      "noteSurCinq": 5
+    },
+    {
+      "client": "Malvira",
+      "noteSurCinq": 3
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "64a9a653e5b37047d4a8d986"
+  },
+  "categorie": "Téléphone",
+  "marque": "Xiaomi",
+  "numSerie": "SN2014868663609",
+  "prix": 638,
+  "notes": [
+    {
+      "client": "Loustic",
+      "noteSurCinq": 2
+    },
+    {
+      "client": "Clampin",
+      "noteSurCinq": 4
+    },
+    {
+      "client": "Musclor",
+      "noteSurCinq": 3
+    },
+    {
+      "client": "Malvira",
+      "noteSurCinq": 3
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "64a9a653e5b37047d4a8d987"
+  },
+  "categorie": "Trotinette électrique",
+  "marque": "Samsung",
+  "numSerie": "SN1212761515614",
+  "prix": 789,
+  "notes": [
+    {
+      "client": "Loustic",
+      "noteSurCinq": 2
+    },
+    {
+      "client": "Clampin",
+      "noteSurCinq": 5
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "64a9a653e5b37047d4a8d988"
+  },
+  "categorie": "Trotinette électrique",
+  "marque": "Huawei",
+  "numSerie": "SN-119135722208",
+  "prix": 857,
+  "notes": [
+    {
+      "client": "Loustic",
+      "noteSurCinq": 5
+    },
+    {
+      "client": "Clampin",
+      "noteSurCinq": 1
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "64a9a653e5b37047d4a8d989"
+  },
+  "categorie": "Lecteur Blueray",
+  "marque": "Sony",
+  "numSerie": "SN1247050831846",
+  "prix": 362,
+  "notes": [
+    {
+      "client": "Loustic",
+      "noteSurCinq": 5
+    },
+    {
+      "client": "Clampin",
+      "noteSurCinq": 2
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "64a9a653e5b37047d4a8d98a"
+  },
+  "categorie": "Trotinette électrique",
+  "marque": "Samsung",
+  "numSerie": "SN1212761515661",
+  "prix": 294,
+  "notes": [
+    {
+      "client": "Loustic",
+      "noteSurCinq": 5
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "64a9a653e5b37047d4a8d98b"
+  },
+  "categorie": "Tablette",
+  "marque": "Samsung",
+  "numSerie": "SN182363267893",
+  "prix": 791,
+  "notes": [
+    {
+      "client": "Loustic",
+      "noteSurCinq": 1
+    },
+    {
+      "client": "Clampin",
+      "noteSurCinq": 4
+    },
+    {
+      "client": "Musclor",
+      "noteSurCinq": 3
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "64a9a653e5b37047d4a8d98c"
+  },
+  "categorie": "Trotinette électrique",
+  "marque": "Huawei",
+  "numSerie": "SN-119135722730",
+  "prix": 593,
+  "notes": [
+    {
+      "client": "Loustic",
+      "noteSurCinq": 1
+    },
+    {
+      "client": "Clampin",
+      "noteSurCinq": 1
+    },
+    {
+      "client": "Musclor",
+      "noteSurCinq": 1
+    },
+    {
+      "client": "Malvira",
+      "noteSurCinq": 3
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "64a9a653e5b37047d4a8d98d"
+  },
+  "categorie": "Lecteur Blueray",
+  "marque": "Huawei",
+  "numSerie": "SN-189792497150",
+  "prix": 938,
+  "notes": [
+    {
+      "client": "Loustic",
+      "noteSurCinq": 3
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "64a9a653e5b37047d4a8d98e"
+  },
+  "categorie": "Téléphone",
+  "marque": "Huawei",
+  "numSerie": "SN1567891939934",
+  "prix": 937,
+  "notes": [
+    {
+      "client": "Loustic",
+      "noteSurCinq": 2
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "64a9a653e5b37047d4a8d98f"
+  },
+  "categorie": "Lecteur Blueray",
+  "marque": "Huawei",
+  "numSerie": "SN-189792497552",
+  "prix": 446,
+  "notes": [
+    {
+      "client": "Loustic",
+      "noteSurCinq": 2
+    },
+    {
+      "client": "Clampin",
+      "noteSurCinq": 3
+    },
+    {
+      "client": "Musclor",
+      "noteSurCinq": 1
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "64a9a653e5b37047d4a8d990"
+  },
+  "categorie": "Téléphone",
+  "marque": "Huawei",
+  "numSerie": "SN1567891939910",
+  "prix": 515,
+  "notes": [
+    {
+      "client": "Loustic",
+      "noteSurCinq": 5
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "64a9a653e5b37047d4a8d991"
+  },
+  "categorie": "Aspirateur",
+  "marque": "Sony",
+  "numSerie": "SN-1555640753383",
+  "prix": 936,
+  "notes": [
+    {
+      "client": "Loustic",
+      "noteSurCinq": 1
+    },
+    {
+      "client": "Clampin",
+      "noteSurCinq": 4
+    },
+    {
+      "client": "Musclor",
+      "noteSurCinq": 4
+    },
+    {
+      "client": "Malvira",
+      "noteSurCinq": 4
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "64a9a653e5b37047d4a8d992"
+  },
+  "categorie": "Trotinette électrique",
+  "marque": "Huawei",
+  "numSerie": "SN-119135722624",
+  "prix": 999,
+  "notes": [
+    {
+      "client": "Loustic",
+      "noteSurCinq": 4
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "64a9a653e5b37047d4a8d993"
+  },
+  "categorie": "Trotinette électrique",
+  "marque": "Philips",
+  "numSerie": "SN-1253259550736",
+  "prix": 150,
+  "notes": [
+    {
+      "client": "Loustic",
+      "noteSurCinq": 4
+    },
+    {
+      "client": "Clampin",
+      "noteSurCinq": 4
+    },
+    {
+      "client": "Musclor",
+      "noteSurCinq": 3
+    },
+    {
+      "client": "Malvira",
+      "noteSurCinq": 2
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "64a9a653e5b37047d4a8d994"
+  },
+  "categorie": "Lecteur Blueray",
+  "marque": "Huawei",
+  "numSerie": "SN-189792497697",
+  "prix": 108,
+  "notes": [
+    {
+      "client": "Loustic",
+      "noteSurCinq": 1
+    },
+    {
+      "client": "Clampin",
+      "noteSurCinq": 1
+    },
+    {
+      "client": "Musclor",
+      "noteSurCinq": 5
+    },
+    {
+      "client": "Malvira",
+      "noteSurCinq": 3
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "64a9a653e5b37047d4a8d995"
+  },
+  "categorie": "Téléphone",
+  "marque": "Samsung",
+  "numSerie": "SN1971011454776",
+  "prix": 138,
+  "notes": [
+    {
+      "client": "Loustic",
+      "noteSurCinq": 5
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "64a9a653e5b37047d4a8d996"
+  },
+  "categorie": "Barre son",
+  "marque": "Huawei",
+  "numSerie": "SN-1941875745668",
+  "prix": 270,
+  "notes": [
+    {
+      "client": "Loustic",
+      "noteSurCinq": 1
+    },
+    {
+      "client": "Clampin",
+      "noteSurCinq": 4
+    },
+    {
+      "client": "Musclor",
+      "noteSurCinq": 3
+    },
+    {
+      "client": "Malvira",
+      "noteSurCinq": 4
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "64a9a653e5b37047d4a8d997"
+  },
+  "categorie": "Barre son",
+  "marque": "Sony",
+  "numSerie": "SN-2133539553847",
+  "prix": 529,
+  "notes": [
+    {
+      "client": "Loustic",
+      "noteSurCinq": 2
+    },
+    {
+      "client": "Clampin",
+      "noteSurCinq": 5
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "64a9a653e5b37047d4a8d998"
+  },
+  "categorie": "Lecteur Blueray",
+  "marque": "Philips",
+  "numSerie": "SN851347721974",
+  "prix": 94,
+  "notes": [
+    {
+      "client": "Loustic",
+      "noteSurCinq": 4
+    },
+    {
+      "client": "Clampin",
+      "noteSurCinq": 4
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "64a9a653e5b37047d4a8d999"
+  },
+  "categorie": "Aspirateur",
+  "marque": "Huawei",
+  "numSerie": "SN-631910129181",
+  "prix": 905,
+  "notes": [
+    {
+      "client": "Loustic",
+      "noteSurCinq": 2
+    },
+    {
+      "client": "Clampin",
+      "noteSurCinq": 5
+    },
+    {
+      "client": "Musclor",
+      "noteSurCinq": 4
+    },
+    {
+      "client": "Malvira",
+      "noteSurCinq": 1
+    },
+    {
+      "client": "Cunégonde",
+      "noteSurCinq": 4
+    },
+    {
+      "client": "Clapiche",
+      "noteSurCinq": 2
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "64a9a653e5b37047d4a8d99a"
+  },
+  "categorie": "Trotinette électrique",
+  "marque": "Huawei",
+  "numSerie": "SN-119135722636",
+  "prix": 375,
+  "notes": [
+    {
+      "client": "Loustic",
+      "noteSurCinq": 5
+    },
+    {
+      "client": "Clampin",
+      "noteSurCinq": 3
+    },
+    {
+      "client": "Musclor",
+      "noteSurCinq": 4
+    },
+    {
+      "client": "Malvira",
+      "noteSurCinq": 3
+    },
+    {
+      "client": "Cunégonde",
+      "noteSurCinq": 2
+    },
+    {
+      "client": "Clapiche",
+      "noteSurCinq": 2
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "64a9a653e5b37047d4a8d99b"
+  },
+  "categorie": "Télé",
+  "marque": "Sony",
+  "numSerie": "SN11851801877",
+  "prix": 393,
+  "notes": [
+    {
+      "client": "Loustic",
+      "noteSurCinq": 2
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "64a9a653e5b37047d4a8d99c"
+  },
+  "categorie": "Téléphone",
+  "marque": "Samsung",
+  "numSerie": "SN1971011454729",
+  "prix": 631,
+  "notes": [
+    {
+      "client": "Loustic",
+      "noteSurCinq": 2
+    },
+    {
+      "client": "Clampin",
+      "noteSurCinq": 1
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "64a9a653e5b37047d4a8d99d"
+  },
+  "categorie": "Télé",
+  "marque": "Samsung",
+  "numSerie": "SN487890888412",
+  "prix": 474,
+  "notes": [
+    {
+      "client": "Loustic",
+      "noteSurCinq": 1
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "64a9a653e5b37047d4a8d99e"
+  },
+  "categorie": "Lecteur Blueray",
+  "marque": "Huawei",
+  "numSerie": "SN-189792497602",
+  "prix": 833,
+  "notes": [
+    {
+      "client": "Loustic",
+      "noteSurCinq": 1
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "64a9a653e5b37047d4a8d99f"
+  },
+  "categorie": "Trotinette électrique",
+  "marque": "Sony",
+  "numSerie": "SN-1309297386231",
+  "prix": 138,
+  "notes": [
+    {
+      "client": "Loustic",
+      "noteSurCinq": 2
+    },
+    {
+      "client": "Clampin",
+      "noteSurCinq": 2
+    },
+    {
+      "client": "Musclor",
+      "noteSurCinq": 3
+    },
+    {
+      "client": "Malvira",
+      "noteSurCinq": 5
+    },
+    {
+      "client": "Cunégonde",
+      "noteSurCinq": 2
+    },
+    {
+      "client": "Clapiche",
+      "noteSurCinq": 2
+    },
+    {
+      "client": "Barbarelle",
+      "noteSurCinq": 3
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "64a9a653e5b37047d4a8d9a0"
+  },
+  "categorie": "Tablette",
+  "marque": "Samsung",
+  "numSerie": "SN182363267800",
+  "prix": 243,
+  "notes": [
+    {
+      "client": "Loustic",
+      "noteSurCinq": 1
+    },
+    {
+      "client": "Clampin",
+      "noteSurCinq": 4
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "64a9a653e5b37047d4a8d9a1"
+  },
+  "categorie": "Aspirateur",
+  "marque": "Samsung",
+  "numSerie": "SN-1798343214316",
+  "prix": 687,
+  "notes": [
+    {
+      "client": "Loustic",
+      "noteSurCinq": 3
+    },
+    {
+      "client": "Clampin",
+      "noteSurCinq": 5
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "64a9a653e5b37047d4a8d9a2"
+  },
+  "categorie": "Tablette",
+  "marque": "Xiaomi",
+  "numSerie": "SN1541528338674",
+  "prix": 242,
+  "notes": [
+    {
+      "client": "Loustic",
+      "noteSurCinq": 1
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "64a9a653e5b37047d4a8d9a3"
+  },
+  "categorie": "Tablette",
+  "marque": "Philips",
+  "numSerie": "SN2011309498698",
+  "prix": 330,
+  "notes": [
+    {
+      "client": "Loustic",
+      "noteSurCinq": 5
+    },
+    {
+      "client": "Clampin",
+      "noteSurCinq": 4
+    },
+    {
+      "client": "Musclor",
+      "noteSurCinq": 4
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "64a9a653e5b37047d4a8d9a4"
+  },
+  "categorie": "Aspirateur",
+  "marque": "Huawei",
+  "numSerie": "SN-631910129287",
+  "prix": 295,
+  "notes": [
+    {
+      "client": "Loustic",
+      "noteSurCinq": 2
+    },
+    {
+      "client": "Clampin",
+      "noteSurCinq": 2
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "64a9a653e5b37047d4a8d9a5"
+  },
+  "categorie": "Barre son",
+  "marque": "Samsung",
+  "numSerie": "SN542395650943",
+  "prix": 145,
+  "notes": [
+    {
+      "client": "Loustic",
+      "noteSurCinq": 4
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "64a9a653e5b37047d4a8d9a6"
+  },
+  "categorie": "Télé",
+  "marque": "Samsung",
+  "numSerie": "SN48789088841",
+  "prix": 961,
+  "notes": [
+    {
+      "client": "Loustic",
+      "noteSurCinq": 5
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "64a9a653e5b37047d4a8d9a7"
+  },
+  "categorie": "Barre son",
+  "marque": "Samsung",
+  "numSerie": "SN542395650599",
+  "prix": 716,
+  "notes": [
+    {
+      "client": "Loustic",
+      "noteSurCinq": 5
+    }
+  ]
+}]
