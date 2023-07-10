@@ -1,0 +1,17 @@
+# Ex 3
+db.employes.find({ poste: "Acteur" })
+
+# Ex 4
+db.employes.updateOne(
+    {prenom: "Christopher", nom: "Nolan"},
+    { $set: {"fichesDePaie.2.montant": 5}}
+);
+
+# Ex 5
+db.employes.updateOne(
+  { "_id": ObjectId("64abe2d065b06e723fb91089") },
+  { $inc: { "fichesDePaie.$[].montant": 500000} }
+);
+
+# Ex 6
+db.employes.deleteMany( {"fichesDePaie.montant": {$gte: 3000000}, "poste": "Acteur" } )

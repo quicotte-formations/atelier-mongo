@@ -1,0 +1,86 @@
+[{
+  "_id": {
+    "$oid": "64abe1a765b06e723fb91083"
+  },
+  "nom": "DiCaprio",
+  "poste": "Acteur",
+  "prenom": "Leonardo",
+  "fichesDePaie": [
+    {
+      "montant": 2500000,
+      "date": "2023-07-01"
+    },
+    {
+      "montant": 3000000,
+      "date": "2023-08-01"
+    },
+    {
+      "montant": 2800000,
+      "date": "2023-09-01"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "64abe1db65b06e723fb91085"
+  },
+  "nom": "Jolie",
+  "poste": "Acteur",
+  "prenom": "Angelina",
+  "fichesDePaie": [
+    {
+      "montant": 2000000,
+      "date": "2023-07-01"
+    },
+    {
+      "montant": 2200000,
+      "date": "2023-08-01"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "64abe23865b06e723fb91087"
+  },
+  "prenom": "Christopher",
+  "nom": "Nolan",
+  "poste": "Directeur",
+  "fichesDePaie": [
+    {
+      "montant": 4000000,
+      "date": "2023-07-01"
+    },
+    {
+      "montant": 4500000,
+      "date": "2023-08-01"
+    },
+    {
+      "montant": 4200000,
+      "date": "2023-09-01"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "64abe2d065b06e723fb91089"
+  },
+  "prenom": "Meryl",
+  "nom": "Streep",
+  "poste": "Acteur",
+  "fichesDePaie": [
+    {
+      "montant": 1800000,
+      "date": "2023-07-01"
+    },
+    {
+      "$inc": {
+        "montant": 500000
+      },
+      "montant": 2000000
+    },
+    {
+      "montant": 1500000,
+      "date": "2023-09-01"
+    }
+  ]
+}]
